@@ -1,0 +1,16 @@
+body {
+  background-color: #1c1c1c;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h3 {
+  color: #00e676;
+}
+
+input::placeholder {
+  color: #aaa;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
